@@ -70,7 +70,9 @@ Coming soon
     <p><a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/" id="L2RNONFLAT">
       <strong>Teacher-Guided Terrain-Aware Learning for Recovery of Quadruped Robots</strong></a><br>
       <strong>Boyuan Deng</strong>, Xu Yang, Yilin Mo, and Nikolaos Tsagarakis<br>
-      <em>arXiv</em><br>
+      <!-- <em>International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)</em> -->
+      <!-- <em>arXiv</em><br> -->
+      <em>IEEE Robotics and Automation Letters (RA-L)</em>
     </p>
 
     <p>
