@@ -12,7 +12,7 @@ hide_image: true
 
 # About
 
-Hi! My name is **Boyuan Deng**. I am a first-year Ph. D. student in Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis). My research interests lie in **robot learning**, **contact-rich task** and **online learning**.
+Hi! My name is **Boyuan Deng**. I am a third-year Ph. D. student in Robotics at [Italian Institute of Technology](https://www.iit.it/) (IIT), advised by [Nikos Tsagarakis](https://hhcm.iit.it/our-staff-details/-/people/nikos-tsagarakis). My research interests lie in **robot learning**, **contact-rich task** and **online learning**.
 
 Previously, I was a Master student in Control Science at [BeiJing Institute of Technology](https://www.bit.edu.cn), advised by [Prof. Jian Sun](https://ac.bit.edu.cn/szdw/dsmd/bssds/8588c2df198b4a669374cc3134ffaa9e.htm).
 
@@ -20,12 +20,12 @@ Previously, I was a Master student in Control Science at [BeiJing Institute of T
 
 ## News 📰
 
-<!-- - [Nov, 2024] One paper accepted by [WCBM Workshop](https://wcbm-workshop.github.io/) at CoRL 2024. 📃
-- [Oct, 2024] Invited talks by ZHIDX  [Frontiers of Embodied AI Lecture](https://course.zhidx.com/c/MGZjNWEzOWJjZDcxODhlNTg2OTM=). 💬
-- [Sep, 2024] [HYPERmotion](https://hy-motion.github.io/) is accepted by CoRL 2024. 🎉
-- [Aug, 2024] One paper accepted by ICRA@40. 📃
-- [Jul, 2024] One paper accepted by IROS 2024 for an oral presentation. ✨
-- [Jul, 2023] Summer school 'Learning-based MPC' at ETHz 🚡 -->
+<!-- - [Nov, 2024] One paper accepted by [WCBM Workshop](https://wcbm-workshop.github.io/) at CoRL 2024. 📃 -->
+<!-- - [Oct, 2024] Invited talks by ZHIDX  [Frontiers of Embodied AI Lecture](https://course.zhidx.com/c/MGZjNWEzOWJjZDcxODhlNTg2OTM=). 💬 -->
+<!-- - [Sep, 2024] [HYPERmotion](https://hy-motion.github.io/) is accepted by CoRL 2024. 🎉 -->
+<!-- - [Jun, 2026] One paper accepted by ICRA@40. 📃 -->
+<!-- - [Jun, 2026] One paper accepted by RA-L. ✨ -->
+<!-- - [Jun, 2025] Summer school 'Learning-based MPC' at ETHz 🚡 -->
 Coming soon
 
 # Research
@@ -68,8 +68,8 @@ Coming soon
   <!-- 右侧：论文信息 -->
   <div style="flex: 1;">
     <p><a href="https://boyuandeng.github.io/TAFR-TeacherGuidedFramework/" id="L2RNONFLAT">
-      <strong>Terrain-Adaptive Fall Recovery for Wheeled-Quadruped Robots: A Teacher-Guided Learning Framework</strong></a><br>
-      <strong>Boyuan Deng</strong>, Nikolaos Tsagarakis<br>
+      <strong>Teacher-Guided Terrain-Aware Learning for Recovery of Quadruped Robots</strong></a><br>
+      <strong>Boyuan Deng</strong>, Xu Yang, Yilin Mo, and Nikolaos Tsagarakis<br>
       <em>arXiv</em><br>
     </p>
 
